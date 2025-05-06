@@ -1,7 +1,7 @@
 {
   "display": {
     "icon": {
-      "item": "trimsexpandeded:plated_armor_trim_smithing_template",
+      "item": "trimsexpandeded:plated_armor_trim_smithing_template"
     },
     "title": {
       "translate": "advancements.adventure.craft_hidden_armor_trim.title"
