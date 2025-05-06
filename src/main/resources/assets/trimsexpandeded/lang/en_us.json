@@ -1,0 +1,49 @@
+{
+  "itemgroup.trimsexpandeded.trimsexpandeded": "Trims Expandeded",
+
+  "item.trimsexpandeded.danger_armor_trim_smithing_template": "Danger Smithing Template",
+  "item.trimsexpandeded.drip_armor_trim_smithing_template": "Drip Smithing Template",
+  "item.trimsexpandeded.heart_armor_trim_smithing_template": "Heart Smithing Template",
+  "item.trimsexpandeded.margin_armor_trim_smithing_template": "Margin Smithing Template",
+  "item.trimsexpandeded.plated_armor_trim_smithing_template": "Plated Smithing Template",
+  "item.trimsexpandeded.pride_armor_trim_smithing_template": "Pride Smithing Template",
+  "item.trimsexpandeded.shell_armor_trim_smithing_template": "Shell Smithing Template",
+  "item.trimsexpandeded.suspicious_armor_trim_smithing_template": "Suspicious Smithing Template",
+  "item.trimsexpandeded.verdant_armor_trim_smithing_template": "Verdant Smithing Template",
+
+  
+
+  "trim_pattern.trimsexpandeded.danger": "Danger Armor Trim",
+  "trim_pattern.trimsexpandeded.drip": "Drip Armor Trim",
+  "trim_pattern.trimsexpandeded.heart": "Heart Armor Trim",
+  "trim_pattern.trimsexpandeded.margin": "Margin Armor Trim",
+  "trim_pattern.trimsexpandeded.plated": "Plated Armor Trim",
+  "trim_pattern.trimsexpandeded.pride": "Pride Armor Trim",
+  "trim_pattern.trimsexpandeded.shell": "Shell Armor Trim",
+  "trim_pattern.trimsexpandeded.suspicious": "Suspicious Armor Trim",
+  "trim_pattern.trimsexpandeded.verdant": "Verdant Armor Trim",
+
+
+
+
+
+  "trim_material.trimsexpandeded.amberpotato": "Amber Material",
+  "trim_material.trimsexpandeded.armadillo": "Armadillo Scute Material",
+  "trim_material.trimsexpandeded.breeze": "Breeze Material",
+  "trim_material.trimsexpandeded.chorus": "Chorus Material",
+  "trim_material.trimsexpandeded.coal": "Coal Material",
+  "trim_material.trimsexpandeded.dragon": "Dragon's Breath Material",
+  "trim_material.trimsexpandeded.echo": "Echo Material",
+  "trim_material.trimsexpandeded.ender": "Ender Material",
+  "trim_material.trimsexpandeded.flame": "Flame Material",
+  "trim_material.trimsexpandeded.glowstone": "Glowstone Material",
+  "trim_material.trimsexpandeded.leather": "Leather Material",
+  "trim_material.trimsexpandeded.netherbrick": "Nether Brick Material",
+  "trim_material.trimsexpandeded.prismarine": "Prismarine Material",
+  "trim_material.trimsexpandeded.rabbit": "Rabbit Material",
+  "trim_material.trimsexpandeded.rainbow": "Rainbow Material",
+  "trim_material.trimsexpandeded.slime": "Slime Material",
+  
+  "advancements.adventure.craft_hidden_armor_trim.title": "Inspired Fashion",
+  "advancements.adventure.craft_hidden_armor_trim.description": "Acquire each of the hidden craft-exclusive smithing templates: Drip, Suspicious, Pride"
+}

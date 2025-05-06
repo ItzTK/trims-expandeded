@@ -1,0 +1,17 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "trimsexpandeded:pride_armor_trim_smithing_template"
+        }
+      }
+    },
+    "rewards": {
+      "function": "trimsexpandeded:craft_pride_template",
+      "loot": [
+        "trimsexpandeded:pride_armor_trim_smithing_template"
+      ]
+    }
+  }
+  

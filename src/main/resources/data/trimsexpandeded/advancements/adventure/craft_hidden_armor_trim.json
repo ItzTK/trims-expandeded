@@ -1,0 +1,38 @@
+{
+  "display": {
+    "icon": {
+      "item": "trimsexpandeded:plated_armor_trim_smithing_template",
+    },
+    "title": {
+      "translate": "advancements.adventure.craft_hidden_armor_trim.title"
+    },
+    "description": {
+      "translate": "advancements.adventure.craft_hidden_armor_trim.description"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "minecraft:adventure/trim_with_any_armor_pattern",
+  "criteria": {
+    "drip": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "trimsexpandeded:drip_armor_trim_smithing_template"
+      }
+    },
+    "suspicious": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "trimsexpandeded:suspicious_armor_trim_smithing_template"
+      }
+    },
+    "pride": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "trimsexpandeded:pride_armor_trim_smithing_template"
+      }
+    }
+  },
+  "sends_telemetry_event": true
+}

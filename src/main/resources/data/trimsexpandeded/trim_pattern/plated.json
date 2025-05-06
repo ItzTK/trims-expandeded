@@ -1,0 +1,7 @@
+{
+  "asset_id": "trimsexpandeded:plated",
+  "description": {
+    "translate": "trim_pattern.trimsexpandeded.plated"
+  },
+  "template_item": "trimsexpandeded:plated_armor_trim_smithing_template"
+}

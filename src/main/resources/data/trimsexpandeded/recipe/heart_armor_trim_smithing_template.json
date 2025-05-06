@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "C": {
+      "item": "minecraft:pink_concrete"
+    },
+    "T": {
+      "item": "trimsexpandeded:heart_armor_trim_smithing_template"
+    }
+  },
+  "pattern": [
+    "#T#",
+    "#C#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:knowledge_book"
+  },
+  "show_notification": false
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "trimsexpandeded:drip",
+  "description": {
+    "translate": "trim_pattern.trimsexpandeded.drip"
+  },
+  "template_item": "trimsexpandeded:drip_armor_trim_smithing_template"
+}
