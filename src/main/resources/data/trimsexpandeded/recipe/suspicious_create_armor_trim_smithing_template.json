@@ -5,15 +5,15 @@
   "key": {
     "#": "minecraft:diamond",
     "C": "minecraft:netherrack",
-    "T": "trimsexpandeded:suspicious_armor_trim_smithing_template"
+    "I": "minecraft:suspicious_stew"
   },
   "pattern": [
-    "#T#",
+    "#I#",
     "#C#",
     "###"
   ],
   "result": {
     "id": "trimsexpandeded:suspicious_armor_trim_smithing_template",
-    "count": 2
+    "count": 1
   }
 }

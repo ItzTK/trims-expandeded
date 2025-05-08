@@ -1,6 +1,7 @@
 package com.itztk.trimsexpandeded;
 
 import com.itztk.trimsexpandeded.item.ModItems;
+import com.itztk.trimsexpandeded.item.ModLootTable;
 import com.itztk.trimsexpandeded.item.TrimsExpandededGroups;
 import net.fabricmc.api.ModInitializer;
 
@@ -15,5 +16,6 @@ public class TrimsExpandeded implements ModInitializer {
 	public void onInitialize() {
 		TrimsExpandededGroups.registerItemGroups();
 		ModItems.registerModItems();
+		ModLootTable.modifyLootTables();
 	}
 }

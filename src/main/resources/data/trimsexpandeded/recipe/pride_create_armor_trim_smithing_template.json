@@ -5,15 +5,15 @@
   "key": {
     "#": "minecraft:diamond",
     "C": "minecraft:gold_block",
-    "T": "trimsexpandeded:pride_armor_trim_smithing_template"
+    "I": "minecraft:heart_of_the_sea"
   },
   "pattern": [
-    "#T#",
+    "#I#",
     "#C#",
     "###"
   ],
   "result": {
     "id": "trimsexpandeded:pride_armor_trim_smithing_template",
-    "count": 2
+    "count": 1
   }
 }

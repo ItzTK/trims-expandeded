@@ -2,15 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "category": "misc",
   "key": {
-    "#": {
-      "item": "minecraft:diamond"
-    },
-    "C": {
-      "item": "minecraft:mossy_cobblestone"
-    },
-    "T": {
-      "item": "trimsexpandeded:danger_armor_trim_smithing_template"
-    }
+    "#": "minecraft:diamond",
+    "C": "minecraft:mossy_cobblestone",
+    "T": "trimsexpandeded:danger_armor_trim_smithing_template"
   },
   "pattern": [
     "#T#",
@@ -18,8 +12,7 @@
     "###"
   ],
   "result": {
-    "count": 1,
-    "item": "minecraft:knowledge_book"
-  },
-  "show_notification": false
+    "id": "trimsexpandeded:danger_armor_trim_smithing_template",
+    "count": 2
+  }
 }

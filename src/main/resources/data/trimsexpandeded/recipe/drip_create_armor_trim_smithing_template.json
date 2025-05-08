@@ -5,15 +5,15 @@
   "key": {
     "#": "minecraft:diamond",
     "C": "minecraft:emerald_block",
-    "T": "trimsexpandeded:drip_armor_trim_smithing_template"
+    "I": "minecraft:pointed_dripstone"
   },
   "pattern": [
-    "#T#",
+    "#I#",
     "#C#",
     "###"
   ],
   "result": {
     "id": "trimsexpandeded:drip_armor_trim_smithing_template",
-    "count": 2
+    "count": 1
   }
 }
